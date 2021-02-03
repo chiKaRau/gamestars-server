@@ -1,8 +1,7 @@
 const axios = require('axios')
 
-//const user_key = "b0njwkfw3qnaqi1dgz9oc1syahadbv";
-const clientID = "b0njwkfw3qnaqi1dgz9oc1syahadbv";
-const clientSecret = "47lina297yawtpu9rlcrd5omzhij2r";
+const clientID = "YOUR TWITCH CLIENT ID";
+const clientSecret = "YOUR TWITCH CLIENT SECRET";
 
 /****************
  * Access Token *
